@@ -6,7 +6,7 @@
 Ссылка 1: Основные файлы (обязательные)
 **[Скачать Excel и TXT](https://cloud.mail.ru/public/qedq/5mbsZZaBK)**  
 Содержит:
-- `tables_specification.xlsx` - полное описание таблиц с индексами
+- `tables_specification.xlsx` - полное описание таблиц с индексами (копипаст с [сайта схемы](https://sedeschema.github.io/))
 - `sql_queries.txt` - SQL-код с типами данных и комментариями автора схемы БД StackExchange для MSSQL
 
 *[Ссылка на оригинальный репозиторий -](https://github.com/leerssej/SEDESchema/blob/master/info_schema_create_tables.sql)*
